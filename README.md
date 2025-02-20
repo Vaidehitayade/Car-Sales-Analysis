@@ -59,6 +59,9 @@ Feel free to **fork**, **star**, or **contribute** to this project!
 📧 Reach out for suggestions or collaborations.  
 
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/324485ed-576b-41c1-a6aa-6626797d363d" />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/05e32eab-b53d-4eec-8769-eb0e34c9b4f2" />
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/6a61c935-b7db-4499-87cd-fb04734d76bc" />
+
 
 
 
